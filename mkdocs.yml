@@ -1,0 +1,45 @@
+site_name: FiveM Clothing Creation Guide
+site_description: Build, edit, rig, and ship FiveM clothing — from single assets to full packs.
+site_url: https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/
+repo_url: https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME
+repo_name: YOUR_GITHUB_USERNAME/YOUR_REPO_NAME
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.top
+    - toc.follow
+    - search.suggest
+    - search.highlight
+  icon:
+    repo: fontawesome/brands/github
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Guide:
+      - 01 Introduction: 01-introduction.md
+      - 02 Core Concepts: 02-core-concepts.md
+      - 03 Tools & Setup: 03-tools-setup.md
+      - 04 Editing Existing Clothing: 04-editing-existing-clothing.md
+      - 05 Textures & Materials: 05-textures-materials.md
+      - 06 Weight Painting & Rigging: 06-weight-painting-rigging.md
+      - 07 Creating From Scratch: 07-creating-from-scratch.md
+      - 08 Clothing Packs: 08-clothing-packs.md
+      - 09 Testing & Debugging: 09-testing-debugging.md
+      - 10 Optimization: 10-optimization-best-practices.md
+      - 11 Layered Clothing Logic: 14-layered-clothing-logic.md
+      - 12 Accessories: 12-accessories-chains-watches.md
+      - 13 Masks & Helmets: 13-masks-helmets.md
+      - 14 Body Compatibility: 15-body-size-shape-compatibility.md
+      - 15 Clipping Mitigation: 16-advanced-clipping-mitigation.md
+      - 16 Release Checklist: 11-release-checklist.md
