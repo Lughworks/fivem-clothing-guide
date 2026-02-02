@@ -14,5 +14,3 @@ A comprehensive guide covering the full workflow for creating, editing, and pack
 - Server developers
 - Clothing pack creators
 - Asset artists transitioning to FiveM
-
-➡ Start here: docs/01-introduction.md
