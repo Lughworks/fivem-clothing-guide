@@ -1,18 +1,3 @@
-Absolutely — this is a **core FiveM pain point**, so let’s document it properly and save people *hours* of trial-and-error.
-
-Below is a **drop-in chapter** for your repo that explains **how GTA/FiveM layering actually works**, how to build compatible items, and how to avoid the classic “why are my arms broken?” moments.
-
----
-
-# 🧥 docs/14-layered-clothing-logic.md
-
-![Image](https://img.gta5-mods.com/q75/images/mp-character-texture-edits/53d690-20201104222354_1.jpg)
-
-![Image](https://img.gta5-mods.com/q75-w500-h333-cfill/images/denim-jacket-and-inside-hoodie/b3dac7-Grand%20Theft%20Auto%20V%2011_09_2018%2018_05_40.png)
-
-![Image](https://forum-cfx-re.akamaized.net/original/4X/5/5/2/55256839b8e19fc04db93ae0564dd3d5bdcfcba2.jpeg)
-
-````md
 # Layered Clothing Logic (Jackets, Hoodies & Torsos)
 
 Layered clothing in FiveM is not automatic.
