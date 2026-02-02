@@ -37,9 +37,9 @@ nav:
       - 08 Clothing Packs: 08-clothing-packs.md
       - 09 Testing & Debugging: 09-testing-debugging.md
       - 10 Optimization: 10-optimization-best-practices.md
-      - 11 Layered Clothing Logic: 14-layered-clothing-logic.md
+      - 11 Layered Clothing Logic: 11-layered-clothing-logic.md
       - 12 Accessories: 12-accessories-chains-watches.md
       - 13 Masks & Helmets: 13-masks-helmets.md
-      - 14 Body Compatibility: 15-body-size-shape-compatibility.md
-      - 15 Clipping Mitigation: 16-advanced-clipping-mitigation.md
-      - 16 Release Checklist: 11-release-checklist.md
+      - 14 Body Compatibility: 14-body-size-shape-compatibility.md
+      - 15 Clipping Mitigation: 15-advanced-clipping-mitigation.md
+      - 16 Release Checklist: 16-release-checklist.md
