@@ -1,8 +1,8 @@
 site_name: FiveM Clothing Creation Guide
 site_description: Build, edit, rig, and ship FiveM clothing — from single assets to full packs.
-site_url: https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/
-repo_url: https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME
-repo_name: YOUR_GITHUB_USERNAME/YOUR_REPO_NAME
+site_url: https://Lughworks.github.io/fivem-clothing-guide/
+repo_url: https://github.com/Lughworks/fivem-clothing-guide
+repo_name: Lughworks/fivem-clothing-guide
 
 theme:
   name: material
